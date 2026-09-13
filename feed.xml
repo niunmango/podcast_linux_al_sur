@@ -13,9 +13,9 @@
       <itunes:name>Ramiro</itunes:name>
       <itunes:email>ramiro.gp@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://niunmango.github.io/podcast_linux_al_sur/podcast_cover.jpg" />
+    <itunes:image href="https://raw.githubusercontent.com/niunmango/podcast_linux_al_sur/main/podcast_cover.jpg" />
     <image>
-      <url>https://niunmango.github.io/podcast_linux_al_sur/podcast_cover.jpg</url>
+      <url>https://raw.githubusercontent.com/niunmango/podcast_linux_al_sur/main/podcast_cover.jpg</url>
       <title>Podcast de Linux al Sur</title>
       <link>https://github.com/niunmango/podcast_linux_al_sur</link>
     </image>
@@ -35,7 +35,7 @@
       <itunes:summary>¿Cómo crea cada contenedor su propia red aislada con IP y firewall independientes? Los espacios de nombres de red en Linux son la respuesta. Desglosamos qué son, cómo funcionan los pares veth y los puentes virtuales, y por qué la Container Network Interface (CNI) automatiza toda esta topología en clústeres Kubernetes y Docker Swarm. Recorremos los plugins más usados (bridge, overlay/VXLAN, OVS), el flujo completo de despliegue: orquestador → runtime → plugin CNI → namespace + veth + IP + rutas, y las políticas de aislamiento con iptables y eBPF. Cubrimos persistencia declarativa vía etcd y buenas prácticas clave: minimizar puentes, rangos IP privados documentados, auditoría de firewall y monitorización con `ip netns` y `tcpdump`. Cerramos con un caso práctico: diseñar una red aislada para un microservicio sensible que solo se comunica con autenticación y base de datos. Contenido alineado a la carrera de Informática CURZAS/UNCo.</itunes:summary>
       <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E36/S02E36.mp3" length="10676319" type="audio/mpeg" />
       <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E36</guid>
-      <pubDate>Sun, 13 Sep 2026 04:24:01 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 04:31:24 GMT</pubDate>
       <itunes:duration>444</itunes:duration>
       <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E36/portada.jpg" />
       <itunes:explicit>false</itunes:explicit>
@@ -52,7 +52,7 @@
       <itunes:summary>¿Tu firewall funciona como un portero que deja pasar a cualquiera? En este episodio analizamos nftables, el motor de filtrado que reemplaza a iptables con una arquitectura unificada, sintaxis declarativa con sets para reducir reglas redundantes, y compilación a bytecode para menor latencia. Cubrimos la migración práctica con `nft-convert`, la gestión de estado mediante `ct state` y un ejemplo paso a paso: crear una tabla "filter" con política *default-drop* que solo permite SSH. También exploramos su integración con eBPF y contenedores Docker/Kubernetes. Ideal para sysadmins, estudiantes de informática y profesionales que buscan seguridad robusta y mantenible en servidores Linux. Producción del CURZAS/UNCo, formando profesionales capaces de diseñar infraestructura de seguridad de vanguardia. Dale like, compartí y suscribite para más contenido técnico.</itunes:summary>
       <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E35/S02E35.mp3" length="10631922" type="audio/mpeg" />
       <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E35</guid>
-      <pubDate>Sun, 13 Sep 2026 04:24:02 GMT</pubDate>
+      <pubDate>Sun, 13 Sep 2026 04:31:25 GMT</pubDate>
       <itunes:duration>442</itunes:duration>
       <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E35/portada.jpg" />
       <itunes:explicit>false</itunes:explicit>
