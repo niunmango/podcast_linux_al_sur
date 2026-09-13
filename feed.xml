@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Podcast de Linux al Sur</title>
+    <link>https://github.com/niunmango/podcast_linux_al_sur</link>
+    <language>es</language>
+    <copyright>© 2026 Ramiro</copyright>
+    <itunes:author>Ramiro</itunes:author>
+    <description>Podacst sobre Linux, software libre y desarrollo web</description>
+    <itunes:summary>Podacst sobre Linux, software libre y desarrollo web</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Ramiro</itunes:name>
+      <itunes:email>ramiro.gp@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://niunmango.github.io/podcast_linux_al_sur/cover.jpg" />
+    <image>
+      <url>https://niunmango.github.io/podcast_linux_al_sur/cover.jpg</url>
+      <title>Podcast de Linux al Sur</title>
+      <link>https://github.com/niunmango/podcast_linux_al_sur</link>
+    </image>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To" />
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <item>
+      <title>S02E36 - Redes de Contenedores en Linux: Namespaces, CNI y Buenas Prácticas</title>
+      <itunes:title>Redes de Contenedores en Linux: Namespaces, CNI y Buenas Prácticas</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>¿Cómo crea cada contenedor su propia red aislada con IP y firewall independientes? Los espacios de nombres de red en Linux son la respuesta. Desglosamos qué son, cómo funcionan los pares veth y los puentes virtuales, y por qué la Container Network Interface (CNI) automatiza toda esta topología en clústeres Kubernetes y Docker Swarm. Recorremos los plugins más usados (bridge, overlay/VXLAN, OVS), el flujo completo de despliegue: orquestador → runtime → plugin CNI → namespace + veth + IP + rutas, y las políticas de aislamiento con iptables y eBPF. Cubrimos persistencia declarativa vía etcd y buenas prácticas clave: minimizar puentes, rangos IP privados documentados, auditoría de firewall y monitorización con `ip netns` y `tcpdump`. Cerramos con un caso práctico: diseñar una red aislada para un microservicio sensible que solo se comunica con autenticación y base de datos. Contenido alineado a la carrera de Informática CURZAS/UNCo.
+
+#RedesLinux #CNI #Kubernetes #AdminSistemas #CURZAS</description>
+      <itunes:summary>¿Cómo crea cada contenedor su propia red aislada con IP y firewall independientes? Los espacios de nombres de red en Linux son la respuesta. Desglosamos qué son, cómo funcionan los pares veth y los puentes virtuales, y por qué la Container Network Interface (CNI) automatiza toda esta topología en clústeres Kubernetes y Docker Swarm. Recorremos los plugins más usados (bridge, overlay/VXLAN, OVS), el flujo completo de despliegue: orquestador → runtime → plugin CNI → namespace + veth + IP + rutas, y las políticas de aislamiento con iptables y eBPF. Cubrimos persistencia declarativa vía etcd y buenas prácticas clave: minimizar puentes, rangos IP privados documentados, auditoría de firewall y monitorización con `ip netns` y `tcpdump`. Cerramos con un caso práctico: diseñar una red aislada para un microservicio sensible que solo se comunica con autenticación y base de datos. Contenido alineado a la carrera de Informática CURZAS/UNCo.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E36/S02E36.mp3" length="10676319" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E36</guid>
+      <pubDate>Sun, 13 Sep 2026 04:01:47 GMT</pubDate>
+      <itunes:duration>444</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E36/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
