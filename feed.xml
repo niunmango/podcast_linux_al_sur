@@ -24,6 +24,31 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>S02E37 - Network Namespaces en Linux: Aislamiento de Servicios sin Virtualización</title>
+      <itunes:title>Network Namespaces en Linux: Aislamiento de Servicios sin Virtualización</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>**Título**  
+Network Namespaces en Linux: aislar servicios y compartir puertos sin máquinas virtuales  
+
+**Descripción**  
+Descubrí cómo los network namespaces convierten al kernel de Linux en una sandbox de red ligera. Aprendé a crear un namespace con `ip netns add`, conectar interfaces virtuales `veth`, asignar IPs y levantar enlaces. Vemos casos prácticos: ejecutar dos versiones de PostgreSQL en el mismo host usando puertos 15432 y 25432, y combinar namespaces con cgroups para limitar CPU y memoria. También se explican buenas prácticas: habilitar el reenvío de paquetes, evitar colisiones de nombres y combinar con mount y user namespaces para aislamiento total. El episodio está pensado para estudiantes de informática, futuros alumnos de CURZAS/UNCo y profesionales que buscan alternativas a hipervisores pesados. Poné en marcha un namespace en tu proyecto, mové el proceso conflictivo y comprobá el aislamiento.
+
+#NetworkNamespaces #Linux #DevOps #UNCo #Programación</description>
+      <itunes:summary>**Título**  
+Network Namespaces en Linux: aislar servicios y compartir puertos sin máquinas virtuales  
+
+**Descripción**  
+Descubrí cómo los network namespaces convierten al kernel de Linux en una sandbox de red ligera. Aprendé a crear un namespace con `ip netns add`, conectar interfaces virtuales `veth`, asignar IPs y levantar enlaces. Vemos casos prácticos: ejecutar dos versiones de PostgreSQL en el mismo host usando puertos 15432 y 25432, y combinar namespaces con cgroups para limitar CPU y memoria. También se explican buenas prácticas: habilitar el reenvío de paquetes, evitar colisiones de nombres y combinar con mount y user namespaces para aislamiento total. El episodio está pensado para estudiantes de informática, futuros alumnos de CURZAS/UNCo y profesionales que buscan alternativas a hipervisores pesados. Poné en marcha un namespace en tu proyecto, mové el proceso conflictivo y comprobá el aislamiento.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E37/S02E37.mp3" length="10816250" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E37</guid>
+      <pubDate>Sun, 13 Sep 2026 04:57:42 GMT</pubDate>
+      <itunes:duration>450</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E37/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E36 - Redes de Contenedores en Linux: Namespaces, CNI y Buenas Prácticas</title>
       <itunes:title>Redes de Contenedores en Linux: Namespaces, CNI y Buenas Prácticas</itunes:title>
       <itunes:season>2</itunes:season>
