@@ -24,6 +24,23 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>S02E38 - WireGuard: VPN ligera, segura y simple para estudiantes y sysadmins</title>
+      <itunes:title>WireGuard: VPN ligera, segura y simple para estudiantes y sysadmins</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>¿Cansado de VPNs complejas y lentas? En este episodio desglosamos WireGuard: el protocolo moderno de código abierto (GPLv3) que revoluciona el acceso remoto seguro. Explicamos su arquitectura minimalista (&lt;10k líneas), su pila criptográfica de alto rendimiento (Curve25519, ChaCha20, Poly1305) y por qué su superficie de ataque mínima lo hace ideal para entornos académicos y profesionales. Incluimos guía práctica paso a paso: instalación en Linux (apt/dnf/pacman), generación de claves, configuración `wg0.conf` (servidor/cliente), uso de `wg-quick`, `PersistentKeepalive`, routing `AllowedIPs 0.0.0.0/0` y persistencia con systemd. Cerramos con un caso real: acceder a la BD de la facultad desde casa vía túnel en la nube en &lt;30 min. Contenido técnico accesible para cursadas de Redes, Admin. de Sistemas y Seguridad. CURZAS/UNCo.
+
+#WireGuard #VPN #SoftwareLibre #RedesInformaticas #CURZASUNCo</description>
+      <itunes:summary>¿Cansado de VPNs complejas y lentas? En este episodio desglosamos WireGuard: el protocolo moderno de código abierto (GPLv3) que revoluciona el acceso remoto seguro. Explicamos su arquitectura minimalista (&lt;10k líneas), su pila criptográfica de alto rendimiento (Curve25519, ChaCha20, Poly1305) y por qué su superficie de ataque mínima lo hace ideal para entornos académicos y profesionales. Incluimos guía práctica paso a paso: instalación en Linux (apt/dnf/pacman), generación de claves, configuración `wg0.conf` (servidor/cliente), uso de `wg-quick`, `PersistentKeepalive`, routing `AllowedIPs 0.0.0.0/0` y persistencia con systemd. Cerramos con un caso real: acceder a la BD de la facultad desde casa vía túnel en la nube en &lt;30 min. Contenido técnico accesible para cursadas de Redes, Admin. de Sistemas y Seguridad. CURZAS/UNCo.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E38/S02E38.mp3" length="10309604" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E38</guid>
+      <pubDate>Fri, 18 Sep 2026 09:56:19 GMT</pubDate>
+      <itunes:duration>429</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E38/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E37 - Network Namespaces en Linux: Aislamiento de Servicios sin Virtualización</title>
       <itunes:title>Network Namespaces en Linux: Aislamiento de Servicios sin Virtualización</itunes:title>
       <itunes:season>2</itunes:season>
