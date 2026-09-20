@@ -24,6 +24,23 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>S02E39 - Zero Trust en la práctica: WireGuard + OpenZiti para redes seguras sin perímetro</title>
+      <itunes:title>Zero Trust en la práctica: WireGuard + OpenZiti para redes seguras sin perímetro</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Desarmamos el modelo Zero Trust aplicado con dos herramientas clave: WireGuard para túneles cifrados de alto rendimiento y OpenZiti para control de acceso granular sin exponer puertos. Explicamos por qué el perímetro tradicional falló, cómo se combinan identidad criptográfica, segmentación de red y auditoría completa, y te guiamos en un proof-of-concept paso a paso: desde levantar el túnel hasta revocar certificados en caliente. Ideal para estudiantes, sysadmins y devs que buscan reducir movimiento lateral, simplificar firewalls y ganar trazabilidad real. Seguridad moderna, sin humo, lista para aplicar mañana.
+
+#ZeroTrust #WireGuard #OpenZiti #Ciberseguridad #RedesInformáticas</description>
+      <itunes:summary>Desarmamos el modelo Zero Trust aplicado con dos herramientas clave: WireGuard para túneles cifrados de alto rendimiento y OpenZiti para control de acceso granular sin exponer puertos. Explicamos por qué el perímetro tradicional falló, cómo se combinan identidad criptográfica, segmentación de red y auditoría completa, y te guiamos en un proof-of-concept paso a paso: desde levantar el túnel hasta revocar certificados en caliente. Ideal para estudiantes, sysadmins y devs que buscan reducir movimiento lateral, simplificar firewalls y ganar trazabilidad real. Seguridad moderna, sin humo, lista para aplicar mañana.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E39/S02E39.mp3" length="13004910" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E39</guid>
+      <pubDate>Sun, 20 Sep 2026 17:35:39 GMT</pubDate>
+      <itunes:duration>541</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E39/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E38 - WireGuard: VPN ligera, segura y simple para estudiantes y sysadmins</title>
       <itunes:title>WireGuard: VPN ligera, segura y simple para estudiantes y sysadmins</itunes:title>
       <itunes:season>2</itunes:season>
