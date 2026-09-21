@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias: Kernel 6.10.8: NVMe Prefetch, Btrfs 8TiB y gzip 1.15</title>
+      <itunes:title>Noticias: Kernel 6.10.8: NVMe Prefetch, Btrfs 8TiB y gzip 1.15</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Kernel 6.10.8 trae prefetch NVMe (nvmecore.defaultpsmaxlatencyus=250) reduciendo latencia 20% en BD, firma obligatoria de módulos (modulesig) y soporte Btrfs para bloques 8 TiB + fix corrupción metadata en balance &gt;1B inodos. En apps: gzip 1.15 corrige overflow buffer &gt;4GB; LibreOffice 7.8.2 usa motor LLVM acelerando cálculo 30% en 10k filas; Neovim integra Tree-sitter 0.12 nativo para highlighting incremental en Rust/Go/Python (TSInstall). Mencionado CrowPanel HMI 10" USB-C programable con evdev.
+
+#Linux #OpenSource #Kernel #Btrfs #NVMe #LibreOffice #Neovim #Gzip #Sysadmin</description>
+      <itunes:summary>Kernel 6.10.8 trae prefetch NVMe (nvmecore.defaultpsmaxlatencyus=250) reduciendo latencia 20% en BD, firma obligatoria de módulos (modulesig) y soporte Btrfs para bloques 8 TiB + fix corrupción metadata en balance &gt;1B inodos. En apps: gzip 1.15 corrige overflow buffer &gt;4GB; LibreOffice 7.8.2 usa motor LLVM acelerando cálculo 30% en 10k filas; Neovim integra Tree-sitter 0.12 nativo para highlighting incremental en Rust/Go/Python (TSInstall). Mencionado CrowPanel HMI 10" USB-C programable con evdev.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20260920/podcast_20260920_194105.mp3" length="8003372" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/EP20260920</guid>
+      <pubDate>Sun, 20 Sep 2026 19:47:58 GMT</pubDate>
+      <itunes:duration>333</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20260920/cover_20260920_194105.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E39 - Zero Trust en la práctica: WireGuard + OpenZiti para redes seguras sin perímetro</title>
       <itunes:title>Zero Trust en la práctica: WireGuard + OpenZiti para redes seguras sin perímetro</itunes:title>
       <itunes:season>2</itunes:season>
