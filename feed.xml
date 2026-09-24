@@ -24,6 +24,23 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>S02E40 - Zero Trust en la práctica: WireGuard + OpenZiti para redes seguras sin perímetro</title>
+      <itunes:title>Zero Trust en la práctica: WireGuard + OpenZiti para redes seguras sin perímetro</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Exploramos el modelo Zero Trust ("nunca confíes, siempre verifica") aplicado a entornos universitarios y proyectos personales. Analizamos por qué el perímetro tradicional falla y cómo combinar WireGuard (transporte cifrado de alto rendimiento en kernel) con OpenZiti (control de acceso granular basado en identidades y políticas) elimina puertos abiertos y segmenta accesos dinámicamente. Incluye principios clave, limitaciones de WireGuard en aislamiento, arquitectura de OpenZiti (controlador, edge routers, servicios lógicos) y un caso real: exponer una app web interna a estudiantes remotos sin abrir puertos en firewall, usando roles y certificados de corta duración. Ideal para estudiantes de desarrollo web, admin de sistemas y DevOps que buscan diseñar seguridad nativa en capas (transporte + política) con herramientas 100% open source.
+
+#ZeroTrust #WireGuard #OpenZiti #Ciberseguridad #SoftwareLibre</description>
+      <itunes:summary>Exploramos el modelo Zero Trust ("nunca confíes, siempre verifica") aplicado a entornos universitarios y proyectos personales. Analizamos por qué el perímetro tradicional falla y cómo combinar WireGuard (transporte cifrado de alto rendimiento en kernel) con OpenZiti (control de acceso granular basado en identidades y políticas) elimina puertos abiertos y segmenta accesos dinámicamente. Incluye principios clave, limitaciones de WireGuard en aislamiento, arquitectura de OpenZiti (controlador, edge routers, servicios lógicos) y un caso real: exponer una app web interna a estudiantes remotos sin abrir puertos en firewall, usando roles y certificados de corta duración. Ideal para estudiantes de desarrollo web, admin de sistemas y DevOps que buscan diseñar seguridad nativa en capas (transporte + política) con herramientas 100% open source.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E40/S02E40.mp3" length="11509661" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E40</guid>
+      <pubDate>Thu, 24 Sep 2026 07:08:59 GMT</pubDate>
+      <itunes:duration>479</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E40/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias: Kernel 6.10.8: NVMe Prefetch, Btrfs 8TiB y gzip 1.15</title>
       <itunes:title>Noticias: Kernel 6.10.8: NVMe Prefetch, Btrfs 8TiB y gzip 1.15</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
