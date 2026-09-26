@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias: Kernel 7.2.8 / 6.18.54, GNOME 43, Ubuntu 22.04 LTS y Gaming en Linux</title>
+      <itunes:title>Noticias: Kernel 7.2.8 / 6.18.54, GNOME 43, Ubuntu 22.04 LTS y Gaming en Linux</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>En esta edición de seis minutos, repasamos los hits de la semana libre. En el kernel, Greg Kroah‑Hartman lanzó 7.2.8 y 6.18.54 con mejoras de memoria, parches IPv6 contra DoS, soporte NVMe de última generación, BPF sin módulos, ajustes al planificador mq‑deadline y nuevas syscalls de io‑uring, además de mitigaciones Spectre/Meltdown. En el entorno de escritorio, GNOME 43 trae panel de energía con detección de monitores de alta frecuencia y previsualización de archivos comprimidos; KDE Plasma recibe casi 1,3 M € para gestión de políticas y autenticación empresarial. En distribuciones, Ubuntu 22.04 LTS adopta Wayland como predeterminado y Fedora 38 incorpora mejoras de rendimiento y flujos de trabajo. En aplicaciones libres, destacamos LibreOffice 5.0 con IA para corrección de estilo y la herramienta de monitoreo “sysmon”. Finalmente, gaming: Valve anuncia compatibilidad oficial de Steam Deck con GPUs AMD RDNA 3 y el juego “Starfield” llega a Linux vía Proton 9.
+
+#Linux #OpenSource #Kernel #Ubuntu #GamingOnLinux</description>
+      <itunes:summary>En esta edición de seis minutos, repasamos los hits de la semana libre. En el kernel, Greg Kroah‑Hartman lanzó 7.2.8 y 6.18.54 con mejoras de memoria, parches IPv6 contra DoS, soporte NVMe de última generación, BPF sin módulos, ajustes al planificador mq‑deadline y nuevas syscalls de io‑uring, además de mitigaciones Spectre/Meltdown. En el entorno de escritorio, GNOME 43 trae panel de energía con detección de monitores de alta frecuencia y previsualización de archivos comprimidos; KDE Plasma recibe casi 1,3 M € para gestión de políticas y autenticación empresarial. En distribuciones, Ubuntu 22.04 LTS adopta Wayland como predeterminado y Fedora 38 incorpora mejoras de rendimiento y flujos de trabajo. En aplicaciones libres, destacamos LibreOffice 5.0 con IA para corrección de estilo y la herramienta de monitoreo “sysmon”. Finalmente, gaming: Valve anuncia compatibilidad oficial de Steam Deck con GPUs AMD RDNA 3 y el juego “Starfield” llega a Linux vía Proton 9.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20260926/podcast_20260926_060105.mp3" length="9548809" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/EP20260926</guid>
+      <pubDate>Sat, 26 Sep 2026 06:10:32 GMT</pubDate>
+      <itunes:duration>397</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20260926/cover_20260926_060105.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E40 - Zero Trust en la práctica: WireGuard + OpenZiti para redes seguras sin perímetro</title>
       <itunes:title>Zero Trust en la práctica: WireGuard + OpenZiti para redes seguras sin perímetro</itunes:title>
       <itunes:season>2</itunes:season>
