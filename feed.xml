@@ -24,6 +24,27 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>S02E41 - eBPF: El futuro del kernel que ya es presente</title>
+      <itunes:title>eBPF: El futuro del kernel que ya es presente</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>¿Sabías que podés modificar el comportamiento del kernel en tiempo real sin reiniciar ni compilar módulos? En este episodio, exploramos eBPF, una tecnología revolucionaria que permite ejecutar programas seguros directamente en el kernel. Desde observabilidad y seguridad hasta networking de alto rendimiento, eBPF está transformando cómo administramos sistemas. Ideal para estudiantes y profesionales de la informática, Linux y ciberseguridad.  
+
+**#eBPF #Linux #Ciberseguridad #Observabilidad #Networking**
+
+#eBPF #Linux #Ciberseguridad #Observabilidad #Networking</description>
+      <itunes:summary>¿Sabías que podés modificar el comportamiento del kernel en tiempo real sin reiniciar ni compilar módulos? En este episodio, exploramos eBPF, una tecnología revolucionaria que permite ejecutar programas seguros directamente en el kernel. Desde observabilidad y seguridad hasta networking de alto rendimiento, eBPF está transformando cómo administramos sistemas. Ideal para estudiantes y profesionales de la informática, Linux y ciberseguridad.  
+
+**#eBPF #Linux #Ciberseguridad #Observabilidad #Networking**</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E41/S02E41.mp3" length="7805588" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E41</guid>
+      <pubDate>Wed, 30 Sep 2026 16:33:47 GMT</pubDate>
+      <itunes:duration>325</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E41/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias: Kernel 7.20.10, GNOME Wisp, KDE Plasma 6.8 y Proton: lo más hot</title>
       <itunes:title>Noticias: Kernel 7.20.10, GNOME Wisp, KDE Plasma 6.8 y Proton: lo más hot</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
