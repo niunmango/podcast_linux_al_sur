@@ -24,6 +24,27 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>S02E42 - Observabilidad distribuida con OpenTelemetry, Jaeger y Prometheus: trazado, métricas y logs en microservicios</title>
+      <itunes:title>Observabilidad distribuida con OpenTelemetry, Jaeger y Prometheus: trazado, métricas y logs en microservicios</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Título: Observabilidad distribuida con OpenTelemetry, Jaeger y Prometheus: transformá la frustración en claridad en microservicios
+
+Descripción: ¿Tu aplicación funciona en desarrollo pero falla en producción? En este episodio desglosamos la observabilidad distribuida con OpenTelemetry, Jaeger y Prometheus. Explicamos cómo el tracing con spans y Jaeger permite seguir cada request como una película conectada, cómo Prometheus recolecta métricas en tiempo real para detectar cuellos de botella, y cómo los logs centralizados correlacionados con trace IDs dan contexto completo al error. Una guía práctica para instrumentar código universitario y profesional, configurar el OpenTelemetry Collector y usar Jaeger, Prometheus y Loki para una visión 360° del sistema. Ideal para estudiantes y profesionales de informática, desarrollo web y software libre. Transformá la depuración y evitá que los clientes sean los primeros en enterarse de los fallos. Si el episodio te sirvió, dale like y seguinos en Spotify y YouTube. ¡Compartí con tu comunidad tecnológica!
+
+#ObservabilidadDistribuida #OpenTelemetry #Jaeger #Prometheus #Microservicios</description>
+      <itunes:summary>Título: Observabilidad distribuida con OpenTelemetry, Jaeger y Prometheus: transformá la frustración en claridad en microservicios
+
+Descripción: ¿Tu aplicación funciona en desarrollo pero falla en producción? En este episodio desglosamos la observabilidad distribuida con OpenTelemetry, Jaeger y Prometheus. Explicamos cómo el tracing con spans y Jaeger permite seguir cada request como una película conectada, cómo Prometheus recolecta métricas en tiempo real para detectar cuellos de botella, y cómo los logs centralizados correlacionados con trace IDs dan contexto completo al error. Una guía práctica para instrumentar código universitario y profesional, configurar el OpenTelemetry Collector y usar Jaeger, Prometheus y Loki para una visión 360° del sistema. Ideal para estudiantes y profesionales de informática, desarrollo web y software libre. Transformá la depuración y evitá que los clientes sean los primeros en enterarse de los fallos. Si el episodio te sirvió, dale like y seguinos en Spotify y YouTube. ¡Compartí con tu comunidad tecnológica!</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E42/S02E42.mp3" length="11596236" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E42</guid>
+      <pubDate>Thu, 01 Oct 2026 07:12:05 GMT</pubDate>
+      <itunes:duration>483</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E42/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E41 - eBPF: El futuro del kernel que ya es presente</title>
       <itunes:title>eBPF: El futuro del kernel que ya es presente</itunes:title>
       <itunes:season>2</itunes:season>
