@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias: Linux 7.4, Wine, LibreOffice y novedades en distros</title>
+      <itunes:title>Noticias: Linux 7.4, Wine, LibreOffice y novedades en distros</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>En esta edición de Linux al Sur revisamos las claves del ecosistema libre: el kernel Linux 7.4 con soporte inicial para Apple M4 y A18 Pro, mejoras en gráficos Intel Battlemage y avances en Rust para punteros inteligentes. En distribuciones, Tuxedo OS 2 beta con UKI y Btrfs, Ubuntu con SHA3 en APT, y el alza de precio de Raspberry Pi 4. Además, LibreOffice corrige errores y mejora estabilidad, mientras Wine acerca el gaming de Windows a Linux. Un resumen esencial de hardware, escritorio, apps y juegos.
+
+#Linux #OpenSource #Kernel #Ubuntu #GamingOnLinux</description>
+      <itunes:summary>En esta edición de Linux al Sur revisamos las claves del ecosistema libre: el kernel Linux 7.4 con soporte inicial para Apple M4 y A18 Pro, mejoras en gráficos Intel Battlemage y avances en Rust para punteros inteligentes. En distribuciones, Tuxedo OS 2 beta con UKI y Btrfs, Ubuntu con SHA3 en APT, y el alza de precio de Raspberry Pi 4. Además, LibreOffice corrige errores y mejora estabilidad, mientras Wine acerca el gaming de Windows a Linux. Un resumen esencial de hardware, escritorio, apps y juegos.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261003/podcast_20261003_094555.mp3" length="8274209" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/EP20261003</guid>
+      <pubDate>Sat, 03 Oct 2026 09:52:18 GMT</pubDate>
+      <itunes:duration>344</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261003/cover_20261003_094555.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E42 - Observabilidad distribuida con OpenTelemetry, Jaeger y Prometheus: trazado, métricas y logs en microservicios</title>
       <itunes:title>Observabilidad distribuida con OpenTelemetry, Jaeger y Prometheus: trazado, métricas y logs en microservicios</itunes:title>
       <itunes:season>2</itunes:season>
