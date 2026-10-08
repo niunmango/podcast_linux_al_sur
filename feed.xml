@@ -24,6 +24,27 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>S02E43 - FRRouting: Ruteo dinámico con BGP y OSPF en Linux</title>
+      <itunes:title>FRRouting: Ruteo dinámico con BGP y OSPF en Linux</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>FRRouting en Linux: OSPF y BGP para routing dinámico universitario  
+Explicamos qué es FRRouting, cómo configurar OSPF y BGP en un servidor Linux, y por qué dominar estos protocolos es esencial para laboratorios de redes y entornos de producción. Incluimos pasos de instalación, ejemplos de configuración y casos de uso prácticos.  
+#FRRouting #OSPF #BGP #RedesLinux #UNCo
+
+#FRRouting #OSPF #BGP #RedesLinux #UNCo</description>
+      <itunes:summary>FRRouting en Linux: OSPF y BGP para routing dinámico universitario  
+Explicamos qué es FRRouting, cómo configurar OSPF y BGP en un servidor Linux, y por qué dominar estos protocolos es esencial para laboratorios de redes y entornos de producción. Incluimos pasos de instalación, ejemplos de configuración y casos de uso prácticos.  
+#FRRouting #OSPF #BGP #RedesLinux #UNCo</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E43/S02E43.mp3" length="6596279" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E43</guid>
+      <pubDate>Thu, 08 Oct 2026 07:06:27 GMT</pubDate>
+      <itunes:duration>274</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E43/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias: Linux 7.4, Wine, LibreOffice y novedades en distros</title>
       <itunes:title>Noticias: Linux 7.4, Wine, LibreOffice y novedades en distros</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
