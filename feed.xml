@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias IA: Polémica Nikon, IA en microscopía y nuevas arquitecturas de atención</title>
+      <itunes:title>Noticias IA: Polémica Nikon, IA en microscopía y nuevas arquitecturas de atención</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Esta semana en el Podcast de Linux al Sur repasamos las noticias clave en inteligencia artificial. La competencia Small World in Motion de Nikon desclasificó su video ganador por uso de IA generativa, reasignando el premio a una grabación auténtica de microorganismos. Analizamos el debate ético sobre autenticidad en ciencia y la proyección de intencionalidad en modelos de lenguaje según Sherry Turkle. En investigación destacan un marco explicable basado en encabezados para interpretación de tablas, una nueva arquitectura de atención eficiente y estudios sobre alineación de modelos multimodales. En infraestructura, las grandes potencias redefinen centros de datos, energía y regulación con anuncios de Amazon. Finalmente, avances en agentes autónomos y herramientas clave de la semana.
+
+#InteligenciaArtificial #AI #LLM #MachineLearning #Tecnologia #OpenSource</description>
+      <itunes:summary>Esta semana en el Podcast de Linux al Sur repasamos las noticias clave en inteligencia artificial. La competencia Small World in Motion de Nikon desclasificó su video ganador por uso de IA generativa, reasignando el premio a una grabación auténtica de microorganismos. Analizamos el debate ético sobre autenticidad en ciencia y la proyección de intencionalidad en modelos de lenguaje según Sherry Turkle. En investigación destacan un marco explicable basado en encabezados para interpretación de tablas, una nueva arquitectura de atención eficiente y estudios sobre alineación de modelos multimodales. En infraestructura, las grandes potencias redefinen centros de datos, energía y regulación con anuncios de Amazon. Finalmente, avances en agentes autónomos y herramientas clave de la semana.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261009/podcast_ia_20261009_192953.mp3" length="9257774" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/IA_EP20261009</guid>
+      <pubDate>Fri, 09 Oct 2026 20:30:36 GMT</pubDate>
+      <itunes:duration>385</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261009/cover_ia_20261009_192953.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E43 - FRRouting: Ruteo dinámico con BGP y OSPF en Linux</title>
       <itunes:title>FRRouting: Ruteo dinámico con BGP y OSPF en Linux</itunes:title>
       <itunes:season>2</itunes:season>
