@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias: Kernel CFI, Ubuntu RISC‑V, Python 3.15 y Proton 11.0‑2: noticias Linux</title>
+      <itunes:title>Noticias: Kernel CFI, Ubuntu RISC‑V, Python 3.15 y Proton 11.0‑2: noticias Linux</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Esta semana el kernel de Linux avanza en seguridad y rendimiento: Kees Cook propone integrar CFI en GCC para bloquear exploits de control‑flow, mientras la versión 6.4 incorpora PerfOpt para APU AMD Ryzen AI, mejorando hasta un 23 % en cargas de IA y beneficiando hardware antiguo. Python 3.15 llega con tipos sentinel y frozendict, UTF‑8 por defecto y mejoras al JIT experimental. En distribuciones, Canonical confirma imágenes oficiales de Ubuntu para RISC‑V, incluyendo escritorio GNOME y una variante mínima de Xubuntu, marcando su entrada al consumo en arquitecturas emergentes. La Document Foundation presenta su propio logo, usando Inter y una paleta corporativa renovada para reforzar su identidad institucional aparte de LibreOffice. En aplicaciones libres se destacan actualizaciones de herramientas de productividad y utilidades del sistema. Finalmente, gaming recibe Proton 11.0‑2, actualización puntual de Valve y CodeWeavers que corrige regresiones y amplía la compatibilidad con títulos recientes.
+
+#Linux #OpenSource #Kernel #Ubuntu #GamingOnLinux</description>
+      <itunes:summary>Esta semana el kernel de Linux avanza en seguridad y rendimiento: Kees Cook propone integrar CFI en GCC para bloquear exploits de control‑flow, mientras la versión 6.4 incorpora PerfOpt para APU AMD Ryzen AI, mejorando hasta un 23 % en cargas de IA y beneficiando hardware antiguo. Python 3.15 llega con tipos sentinel y frozendict, UTF‑8 por defecto y mejoras al JIT experimental. En distribuciones, Canonical confirma imágenes oficiales de Ubuntu para RISC‑V, incluyendo escritorio GNOME y una variante mínima de Xubuntu, marcando su entrada al consumo en arquitecturas emergentes. La Document Foundation presenta su propio logo, usando Inter y una paleta corporativa renovada para reforzar su identidad institucional aparte de LibreOffice. En aplicaciones libres se destacan actualizaciones de herramientas de productividad y utilidades del sistema. Finalmente, gaming recibe Proton 11.0‑2, actualización puntual de Valve y CodeWeavers que corrige regresiones y amplía la compatibilidad con títulos recientes.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261010/podcast_20261010_060047.mp3" length="6217875" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/EP20261010</guid>
+      <pubDate>Sat, 10 Oct 2026 06:15:25 GMT</pubDate>
+      <itunes:duration>259</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261010/cover_20261010_060047.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias IA: Polémica Nikon, IA en microscopía y nuevas arquitecturas de atención</title>
       <itunes:title>Noticias IA: Polémica Nikon, IA en microscopía y nuevas arquitecturas de atención</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
