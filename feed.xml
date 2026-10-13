@@ -24,6 +24,22 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Episodio Especial - Reflexiones de un fin de semana largo: La tinta, el silicio y la trampa del olvido</title>
+      <itunes:title>Reflexiones de un fin de semana largo: La tinta, el silicio y la trampa del olvido</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episodeType>bonus</itunes:episodeType>
+      <description>¿La inteligencia artificial va a destruir la mente humana o la va a potenciar? Hace casi 2.400 años Platón escribió en el Fedro la misma advertencia contra una tecnología revolucionaria: el alfabeto. En este monólogo reflexivo viajamos del mito egipcio del dios Theuth y el rey Thamus hasta los modelos de lenguaje masivos, explorando la hipótesis de la mente extendida de Clark y Chalmers y el verdadero valor del criterio humano frente a los algoritmos.
+
+#LinuxAlSur #EpisodioEspecial #InteligenciaArtificial #Filosofia #Platon #Tecnologia #Reflexiones #OpenSource</description>
+      <itunes:summary>¿La inteligencia artificial va a destruir la mente humana o la va a potenciar? Hace casi 2.400 años Platón escribió en el Fedro la misma advertencia contra una tecnología revolucionaria: el alfabeto. En este monólogo reflexivo viajamos del mito egipcio del dios Theuth y el rey Thamus hasta los modelos de lenguaje masivos, explorando la hipótesis de la mente extendida de Clark y Chalmers y el verdadero valor del criterio humano frente a los algoritmos.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E-ESPECIAL/S02E-ESPECIAL.mp3" length="11505759" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E-ESPECIAL</guid>
+      <pubDate>Tue, 13 Oct 2026 14:36:26 GMT</pubDate>
+      <itunes:duration>479</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E-ESPECIAL/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias: Kernel CFI, Ubuntu RISC‑V, Python 3.15 y Proton 11.0‑2: noticias Linux</title>
       <itunes:title>Noticias: Kernel CFI, Ubuntu RISC‑V, Python 3.15 y Proton 11.0‑2: noticias Linux</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
