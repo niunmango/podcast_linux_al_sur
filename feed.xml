@@ -24,6 +24,25 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>S02E44 - HAProxy: Balanceo L4/L7 en entornos de alta concurrencia y tolerancia a fallos</title>
+      <itunes:title>HAProxy: Balanceo L4/L7 en entornos de alta concurrencia y tolerancia a fallos</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Title: User Safety in the Digital Age
+Description: Discover key user safety strategies for computing students and professionals. Topics include password management, multi‑factor authentication, phishing识别, and safe browsing techniques. Learn to protect personal data, spot social engineering, and adopt privacy‑first habits. Presented by CURZAS/UNCo, this episode equips university students, IT newcomers, and anyone aiming to bolster their digital defense with practical, actionable advice.
+
+#UserSafety #Cybersecurity #DigitalSecurity #Students #UNCo</description>
+      <itunes:summary>Title: User Safety in the Digital Age
+Description: Discover key user safety strategies for computing students and professionals. Topics include password management, multi‑factor authentication, phishing识别, and safe browsing techniques. Learn to protect personal data, spot social engineering, and adopt privacy‑first habits. Presented by CURZAS/UNCo, this episode equips university students, IT newcomers, and anyone aiming to bolster their digital defense with practical, actionable advice.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E44/S02E44.mp3" length="1596420" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E44</guid>
+      <pubDate>Thu, 15 Oct 2026 07:02:29 GMT</pubDate>
+      <itunes:duration>66</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E44/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Episodio Especial - Reflexiones de un fin de semana largo: La tinta, el silicio y la trampa del olvido</title>
       <itunes:title>Reflexiones de un fin de semana largo: La tinta, el silicio y la trampa del olvido</itunes:title>
       <itunes:season>2</itunes:season>
