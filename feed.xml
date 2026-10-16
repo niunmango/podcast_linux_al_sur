@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias IA: IA Semanal: LLMs, RealtimeBench, chips y agentes autónomos</title>
+      <itunes:title>Noticias IA: IA Semanal: LLMs, RealtimeBench, chips y agentes autónomos</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Esta edición semanal de noticias de inteligencia artificial del Podcast de Linux al Sur analiza los avances más relevantes de la semana en cuatro ejes. En modelos fundacionales y LLMs, OpenAI actualiza su extensión para Chrome para que ChatGPT lea pestañas abiertas sin copiar y pegar, mientras Cal AI supera los treinta millones de dólares y es adquirida por MyFitnessPal; Sega retira Total War: Shogun 2 por fallos de escalado generado por IA. En papers e investigación, RealtimeBench evalúa agentes de lenguaje en contextos dinámicos con ciento ochenta tareas, y un estudio propone analizar transcripciones completas para diferenciar modelos en benchmarks saturados. En infraestructura y chips, se destaca un hito del ecosistema de IA. Finalmente, en agentes autónomos, se revisan herramientas que transforman la productividad y los movimientos clave en asistentes de código.
+
+#InteligenciaArtificial #AI #LLM #MachineLearning #Tecnologia #OpenSource</description>
+      <itunes:summary>Esta edición semanal de noticias de inteligencia artificial del Podcast de Linux al Sur analiza los avances más relevantes de la semana en cuatro ejes. En modelos fundacionales y LLMs, OpenAI actualiza su extensión para Chrome para que ChatGPT lea pestañas abiertas sin copiar y pegar, mientras Cal AI supera los treinta millones de dólares y es adquirida por MyFitnessPal; Sega retira Total War: Shogun 2 por fallos de escalado generado por IA. En papers e investigación, RealtimeBench evalúa agentes de lenguaje en contextos dinámicos con ciento ochenta tareas, y un estudio propone analizar transcripciones completas para diferenciar modelos en benchmarks saturados. En infraestructura y chips, se destaca un hito del ecosistema de IA. Finalmente, en agentes autónomos, se revisan herramientas que transforman la productividad y los movimientos clave en asistentes de código.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261016/podcast_ia_20261016_050118.mp3" length="8797112" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/IA_EP20261016</guid>
+      <pubDate>Fri, 16 Oct 2026 05:19:18 GMT</pubDate>
+      <itunes:duration>366</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261016/cover_ia_20261016_050118.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E44 - HAProxy: Balanceo L4/L7 en entornos de alta concurrencia y tolerancia a fallos</title>
       <itunes:title>HAProxy: Balanceo L4/L7 en entornos de alta concurrencia y tolerancia a fallos</itunes:title>
       <itunes:season>2</itunes:season>
