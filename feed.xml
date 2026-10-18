@@ -24,6 +24,23 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>S02E44 - HAProxy: Balanceo L4/L7 en entornos de alta concurrencia y tolerancia a fallos</title>
+      <itunes:title>HAProxy: Balanceo L4/L7 en entornos de alta concurrencia y tolerancia a fallos</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>¿Cómo manejan millones de usuarios sitios como Mercado Libre o Instagram sin caerse? En este episodio exploramos HAProxy, la herramienta clave en balanceo de carga. Aprendé cómo opera en capa 4 (TCP/UDP) y capa 7 (HTTP), su arquitectura basada en eventos para alta concurrencia, mecanismos de health check, tolerancia a fallos, sticky sessions, rate limiting y su papel como proxy inverso. Un análisis práctico para entender cómo HAProxy distribuye tráfico con eficiencia y confiabilidad en entornos de alta disponibilidad. Ideal para estudiantes y profesionales de informática, desarrollo web y administración de sistemas.
+
+#HAProxy #BalanceoDeCarga #InformáticaUNCo #DesarrolloWeb #SoftwareLibre</description>
+      <itunes:summary>¿Cómo manejan millones de usuarios sitios como Mercado Libre o Instagram sin caerse? En este episodio exploramos HAProxy, la herramienta clave en balanceo de carga. Aprendé cómo opera en capa 4 (TCP/UDP) y capa 7 (HTTP), su arquitectura basada en eventos para alta concurrencia, mecanismos de health check, tolerancia a fallos, sticky sessions, rate limiting y su papel como proxy inverso. Un análisis práctico para entender cómo HAProxy distribuye tráfico con eficiencia y confiabilidad en entornos de alta disponibilidad. Ideal para estudiantes y profesionales de informática, desarrollo web y administración de sistemas.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E44/S02E44.mp3" length="8539140" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E44</guid>
+      <pubDate>Sun, 18 Oct 2026 23:49:15 GMT</pubDate>
+      <itunes:duration>355</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E44/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias IA: IA Semanal: LLMs, RealtimeBench, chips y agentes autónomos</title>
       <itunes:title>Noticias IA: IA Semanal: LLMs, RealtimeBench, chips y agentes autónomos</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
@@ -36,25 +53,6 @@
       <pubDate>Fri, 16 Oct 2026 05:19:18 GMT</pubDate>
       <itunes:duration>366</itunes:duration>
       <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261016/cover_ia_20261016_050118.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>S02E44 - HAProxy: Balanceo L4/L7 en entornos de alta concurrencia y tolerancia a fallos</title>
-      <itunes:title>HAProxy: Balanceo L4/L7 en entornos de alta concurrencia y tolerancia a fallos</itunes:title>
-      <itunes:season>2</itunes:season>
-      <itunes:episode>44</itunes:episode>
-      <itunes:episodeType>full</itunes:episodeType>
-      <description>Title: User Safety in the Digital Age
-Description: Discover key user safety strategies for computing students and professionals. Topics include password management, multi‑factor authentication, phishing识别, and safe browsing techniques. Learn to protect personal data, spot social engineering, and adopt privacy‑first habits. Presented by CURZAS/UNCo, this episode equips university students, IT newcomers, and anyone aiming to bolster their digital defense with practical, actionable advice.
-
-#UserSafety #Cybersecurity #DigitalSecurity #Students #UNCo</description>
-      <itunes:summary>Title: User Safety in the Digital Age
-Description: Discover key user safety strategies for computing students and professionals. Topics include password management, multi‑factor authentication, phishing识别, and safe browsing techniques. Learn to protect personal data, spot social engineering, and adopt privacy‑first habits. Presented by CURZAS/UNCo, this episode equips university students, IT newcomers, and anyone aiming to bolster their digital defense with practical, actionable advice.</itunes:summary>
-      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E44/S02E44.mp3" length="1596420" type="audio/mpeg" />
-      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E44</guid>
-      <pubDate>Thu, 15 Oct 2026 07:02:29 GMT</pubDate>
-      <itunes:duration>66</itunes:duration>
-      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E44/portada.jpg" />
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
