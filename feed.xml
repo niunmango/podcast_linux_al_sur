@@ -33,10 +33,10 @@
 
 #HAProxy #BalanceoDeCarga #InformáticaUNCo #DesarrolloWeb #SoftwareLibre</description>
       <itunes:summary>¿Cómo manejan millones de usuarios sitios como Mercado Libre o Instagram sin caerse? En este episodio exploramos HAProxy, la herramienta clave en balanceo de carga. Aprendé cómo opera en capa 4 (TCP/UDP) y capa 7 (HTTP), su arquitectura basada en eventos para alta concurrencia, mecanismos de health check, tolerancia a fallos, sticky sessions, rate limiting y su papel como proxy inverso. Un análisis práctico para entender cómo HAProxy distribuye tráfico con eficiencia y confiabilidad en entornos de alta disponibilidad. Ideal para estudiantes y profesionales de informática, desarrollo web y administración de sistemas.</itunes:summary>
-      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E44/S02E44.mp3" length="8539140" type="audio/mpeg" />
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E44/S02E44.mp3" length="13584743" type="audio/mpeg" />
       <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E44</guid>
-      <pubDate>Sun, 18 Oct 2026 23:49:15 GMT</pubDate>
-      <itunes:duration>355</itunes:duration>
+      <pubDate>Sun, 18 Oct 2026 23:56:42 GMT</pubDate>
+      <itunes:duration>565</itunes:duration>
       <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E44/portada.jpg" />
       <itunes:explicit>false</itunes:explicit>
     </item>
