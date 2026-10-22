@@ -24,6 +24,23 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>S02E45 - Cgroups v2 y systemd: el control invisible de tus recursos | Curzas UNCo</title>
+      <itunes:title>Cgroups v2 y systemd: el control invisible de tus recursos | Curzas UNCo</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>¿Tu servidor se cuelga al correr múltiples contenedores? El problema puede estar en los cgroups, el mecanismo del kernel que controla memoria, CPU y disco. En este episodio, exploramos cómo cgroups v2 y systemd trabajan juntos para limitar y monitorear recursos, evitando que un proceso bloquee tu sistema. Ideal para estudiantes y profesionales de informática.
+
+#CgroupsV2 #Systemd #Linux #DesarrolloWeb #CurzasUNCo</description>
+      <itunes:summary>¿Tu servidor se cuelga al correr múltiples contenedores? El problema puede estar en los cgroups, el mecanismo del kernel que controla memoria, CPU y disco. En este episodio, exploramos cómo cgroups v2 y systemd trabajan juntos para limitar y monitorear recursos, evitando que un proceso bloquee tu sistema. Ideal para estudiantes y profesionales de informática.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E45/S02E45.mp3" length="15743287" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E45</guid>
+      <pubDate>Thu, 22 Oct 2026 07:13:09 GMT</pubDate>
+      <itunes:duration>655</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E45/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E44 - HAProxy: Balanceo L4/L7 en entornos de alta concurrencia y tolerancia a fallos</title>
       <itunes:title>HAProxy: Balanceo L4/L7 en entornos de alta concurrencia y tolerancia a fallos</itunes:title>
       <itunes:season>2</itunes:season>
