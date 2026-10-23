@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias IA: OpenAI $30B, Canva Craft, RAG y agentes autónomos esta semana</title>
+      <itunes:title>Noticias IA: OpenAI $30B, Canva Craft, RAG y agentes autónomos esta semana</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Esta semana en IA: OpenAI evalúa una ronda de 30.000 millones de dólares con una valoración de 1.205.000 millones, consolidando su liderazgo en LLMs. Canva lanza Canva Craft, un modelo de generación de imágenes de dos etapas que compite con OpenAI, Microsoft y Google. En investigación, tres papers en arXiv abordan RAG con modelos pequeños para aclarar consultas ambiguas, transferencia de conocimiento entre mundos virtuales y descubrimiento científico evolutivo. En infraestructura, la carrera por centros de cómputo y chips de última generación redefine la arquitectura de inferencia, priorizando escalabilidad, eficiencia energética y gestión de tokens. Finalmente, agentes autónomos avanzan más allá del chat, integrándose directamente en flujos de trabajo reales. Todo en el Podcast de Linux al Sur.
+
+#InteligenciaArtificial #AI #LLM #MachineLearning #Tecnologia #OpenSource</description>
+      <itunes:summary>Esta semana en IA: OpenAI evalúa una ronda de 30.000 millones de dólares con una valoración de 1.205.000 millones, consolidando su liderazgo en LLMs. Canva lanza Canva Craft, un modelo de generación de imágenes de dos etapas que compite con OpenAI, Microsoft y Google. En investigación, tres papers en arXiv abordan RAG con modelos pequeños para aclarar consultas ambiguas, transferencia de conocimiento entre mundos virtuales y descubrimiento científico evolutivo. En infraestructura, la carrera por centros de cómputo y chips de última generación redefine la arquitectura de inferencia, priorizando escalabilidad, eficiencia energética y gestión de tokens. Finalmente, agentes autónomos avanzan más allá del chat, integrándose directamente en flujos de trabajo reales. Todo en el Podcast de Linux al Sur.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261023/podcast_ia_20261023_050101.mp3" length="9055415" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/IA_EP20261023</guid>
+      <pubDate>Fri, 23 Oct 2026 05:10:19 GMT</pubDate>
+      <itunes:duration>377</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261023/cover_ia_20261023_050101.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E45 - Cgroups v2 y systemd: el control invisible de tus recursos | Curzas UNCo</title>
       <itunes:title>Cgroups v2 y systemd: el control invisible de tus recursos | Curzas UNCo</itunes:title>
       <itunes:season>2</itunes:season>
