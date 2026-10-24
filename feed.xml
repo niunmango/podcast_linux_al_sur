@@ -31,10 +31,10 @@
 
 #Linux #OpenSource #Kernel #Ubuntu #GamingOnLinux</description>
       <itunes:summary>En esta edición de Linux al Sur, el kernel Linux 7.4 abre su ventana de fusión con mejoras en gestión de memoria y posible remoción de HPFS. GNOME Shell suma Shader Effects para filtros GPU, mientras KDE Plasma 6.9 estabiliza picture-in-picture en Wayland. OBS Studio 30.3 refina su framework de captura, Calibre 9.17 acelera conversiones y añade soporte JPEG XL. En gaming, novedades en controladores y compatibilidad para Linux. Todo lo esencial del ecosistema libre esta semana.</itunes:summary>
-      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261024/podcast_20261024_060102.mp3" length="8220296" type="audio/mpeg" />
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261024/podcast_20261024_060102.mp3" length="8480815" type="audio/mpeg" />
       <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/EP20261024</guid>
-      <pubDate>Sat, 24 Oct 2026 06:09:07 GMT</pubDate>
-      <itunes:duration>342</itunes:duration>
+      <pubDate>Sat, 24 Oct 2026 10:40:17 GMT</pubDate>
+      <itunes:duration>353</itunes:duration>
       <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261024/cover_20261024_060102.jpg" />
       <itunes:explicit>false</itunes:explicit>
     </item>
