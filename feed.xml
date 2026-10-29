@@ -24,6 +24,23 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>S02E46 - Seguridad Linux de Nivel Pro: Audit D y Lynis para Tu TP Final y VPS</title>
+      <itunes:title>Seguridad Linux de Nivel Pro: Audit D y Lynis para Tu TP Final y VPS</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>¿Listos para pasar de la reacción a la prevención? En este episodio desentrañamos el **host hardening** Linux con **Audit D** y **Lynis**, perfecto para estudiantes de Sistemas, Seguridad y administradores de VPS para el TP final. La seguridad es un proceso, no un producto. Aprende a usar **Audit D** como la caja negra del kernel para auditar accesos a archivos críticos y detectar escalada de privilegios, evitando el error del `auid`. Luego, usa **Lynis** como tu auditor de compliance (CIS/NIST) para obtener una checklist priorizada de corrección de vulnerabilidades reales. Incluimos la estrategia de automatización continua y envío de alertas a SIEMs como Wazuh. Define tu *baseline*, protege tu infraestructura y duerme tranquillo. ¡Suscríbete, dale like y comparte!
+
+#LinuxHardening #AuditD #Lynis #SeguridadInformatica #SysAdmin</description>
+      <itunes:summary>¿Listos para pasar de la reacción a la prevención? En este episodio desentrañamos el **host hardening** Linux con **Audit D** y **Lynis**, perfecto para estudiantes de Sistemas, Seguridad y administradores de VPS para el TP final. La seguridad es un proceso, no un producto. Aprende a usar **Audit D** como la caja negra del kernel para auditar accesos a archivos críticos y detectar escalada de privilegios, evitando el error del `auid`. Luego, usa **Lynis** como tu auditor de compliance (CIS/NIST) para obtener una checklist priorizada de corrección de vulnerabilidades reales. Incluimos la estrategia de automatización continua y envío de alertas a SIEMs como Wazuh. Define tu *baseline*, protege tu infraestructura y duerme tranquillo. ¡Suscríbete, dale like y comparte!</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E46/S02E46.mp3" length="15541409" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E46</guid>
+      <pubDate>Thu, 29 Oct 2026 07:15:11 GMT</pubDate>
+      <itunes:duration>647</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E46/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias: Kernel 7.4, GNOME Shaders, OBS 30.3 y Gaming en Linux</title>
       <itunes:title>Noticias: Kernel 7.4, GNOME Shaders, OBS 30.3 y Gaming en Linux</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
