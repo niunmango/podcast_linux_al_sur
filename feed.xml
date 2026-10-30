@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias IA: IA: derechos laborales, datos vallados e inversión vertical</title>
+      <itunes:title>Noticias IA: IA: derechos laborales, datos vallados e inversión vertical</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>En esta edición, los modelos fundacionales e LLMs muestran su impacto más allá de los pesos: un caso en Kentucky reconoce el derecho a no usar IA por razones religiosas, Reddit cierra su experiencia abierta para proteger su contenido de la erosión causada por respuestas sintéticas, y Thrive Holdings compra ADT por 15.3 mil millones para integrar IA en seguridad hogar. En investigación, MIT Technology Review destaca la necesidad de integrar conocimiento empresarial para que los asistentes de IA actúen con coherencia contextual, mientras estudios industriales proponen modelos autónomos con supervisión humana en manufactura. Finalmente, los agentes autónomos avanzan con herramientas prácticas para desarrolladores y usuarios.
+
+#InteligenciaArtificial #AI #LLM #MachineLearning #Tecnologia #OpenSource</description>
+      <itunes:summary>En esta edición, los modelos fundacionales e LLMs muestran su impacto más allá de los pesos: un caso en Kentucky reconoce el derecho a no usar IA por razones religiosas, Reddit cierra su experiencia abierta para proteger su contenido de la erosión causada por respuestas sintéticas, y Thrive Holdings compra ADT por 15.3 mil millones para integrar IA en seguridad hogar. En investigación, MIT Technology Review destaca la necesidad de integrar conocimiento empresarial para que los asistentes de IA actúen con coherencia contextual, mientras estudios industriales proponen modelos autónomos con supervisión humana en manufactura. Finalmente, los agentes autónomos avanzan con herramientas prácticas para desarrolladores y usuarios.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261030/podcast_ia_20261030_050015.mp3" length="9039739" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/IA_EP20261030</guid>
+      <pubDate>Fri, 30 Oct 2026 05:20:35 GMT</pubDate>
+      <itunes:duration>376</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261030/cover_ia_20261030_050015.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E46 - Seguridad Linux de Nivel Pro: Audit D y Lynis para Tu TP Final y VPS</title>
       <itunes:title>Seguridad Linux de Nivel Pro: Audit D y Lynis para Tu TP Final y VPS</itunes:title>
       <itunes:season>2</itunes:season>
