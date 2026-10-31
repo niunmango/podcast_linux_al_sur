@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias: PostgreSQL 19 se retrasa y el kernel abraza Rust en Linux al Sur</title>
+      <itunes:title>Noticias: PostgreSQL 19 se retrasa y el kernel abraza Rust en Linux al Sur</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>En esta edición de Linux al Sur, revisamos las noticias más relevantes del ecosistema libre. PostgreSQL 19 enfrenta un retraso en su lanzamiento debido a la saturación de canales de revisión por reportes generados por modelos de lenguaje, lo que exige más tiempo a los mantenedores humanos para filtrar falsos positivos. En el kernel, se eliminó la implementación en C del controlador Binder, dando paso a su versión en Rust y consolidando este lenguaje en subsistemas críticos. Ubuntu inicia el desarrollo de la versión 27.04 con nombre en clave Tenacious T-Rex, mientras Gentoo retira Chromium de sus repositorios por desafíos de mantenimiento. Además, el escritorio COSMIC llega a su versión 1.1 con mejoras en gestión de panel táctil y rendimiento. Flatpak se consolida como estándar de empaquetado universal, y Wine 11.21 avanza hacia la versión 12.0 mejorando la compatibilidad de juegos de Windows en Linux.
+
+#Linux #OpenSource #Kernel #Ubuntu #GamingOnLinux #PostgreSQL #RustLang #Flatpak #Wine #COSMIC #Gentoo #Android #SpotifyPodcast #ApplePodcasts</description>
+      <itunes:summary>En esta edición de Linux al Sur, revisamos las noticias más relevantes del ecosistema libre. PostgreSQL 19 enfrenta un retraso en su lanzamiento debido a la saturación de canales de revisión por reportes generados por modelos de lenguaje, lo que exige más tiempo a los mantenedores humanos para filtrar falsos positivos. En el kernel, se eliminó la implementación en C del controlador Binder, dando paso a su versión en Rust y consolidando este lenguaje en subsistemas críticos. Ubuntu inicia el desarrollo de la versión 27.04 con nombre en clave Tenacious T-Rex, mientras Gentoo retira Chromium de sus repositorios por desafíos de mantenimiento. Además, el escritorio COSMIC llega a su versión 1.1 con mejoras en gestión de panel táctil y rendimiento. Flatpak se consolida como estándar de empaquetado universal, y Wine 11.21 avanza hacia la versión 12.0 mejorando la compatibilidad de juegos de Windows en Linux.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261031/podcast_20261031_060054.mp3" length="8914587" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/EP20261031</guid>
+      <pubDate>Sat, 31 Oct 2026 06:20:25 GMT</pubDate>
+      <itunes:duration>371</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261031/cover_20261031_060054.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias IA: IA: derechos laborales, datos vallados e inversión vertical</title>
       <itunes:title>Noticias IA: IA: derechos laborales, datos vallados e inversión vertical</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
