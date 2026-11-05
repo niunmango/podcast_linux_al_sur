@@ -24,6 +24,23 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>S02E47 - Desarmando Ceph: El algoritmo CRUSH y la arquitectura de almacenamiento distribuido</title>
+      <itunes:title>Desarmando Ceph: El algoritmo CRUSH y la arquitectura de almacenamiento distribuido</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>¿Tu aplicación necesita un "disco gigante" distribuido que se auto-repare y escale sin cuellos de botella? En este episodio desarmamos Ceph, el estándar para nubes privadas y clústeres Kubernetes. Exploramos el algoritmo CRUSH que elimina tablas centralizadas, los OSDs, los PGs y las tres interfaces nativas: RBD, CephFS y RGW. Hablamos topología de red, replicación vs erasure coding, y operación moderna con cephadm. Si estudias informática, administras sistemas o desarrollas software, descubrirás cómo transformar hardware commodity en almacenamiento enterprise auto-reparable. La matemática detrás de CRUSH cambia la persistencia de datos. Suscríbete y compartí este episodio con tu comunidad tech.
+
+#Ceph #AlmacenamientoDistribuido #CRUSH #Kubernetes #ComputacionNube</description>
+      <itunes:summary>¿Tu aplicación necesita un "disco gigante" distribuido que se auto-repare y escale sin cuellos de botella? En este episodio desarmamos Ceph, el estándar para nubes privadas y clústeres Kubernetes. Exploramos el algoritmo CRUSH que elimina tablas centralizadas, los OSDs, los PGs y las tres interfaces nativas: RBD, CephFS y RGW. Hablamos topología de red, replicación vs erasure coding, y operación moderna con cephadm. Si estudias informática, administras sistemas o desarrollas software, descubrirás cómo transformar hardware commodity en almacenamiento enterprise auto-reparable. La matemática detrás de CRUSH cambia la persistencia de datos. Suscríbete y compartí este episodio con tu comunidad tech.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E47/S02E47.mp3" length="21634015" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E47</guid>
+      <pubDate>Thu, 05 Nov 2026 07:06:36 GMT</pubDate>
+      <itunes:duration>901</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E47/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias: PostgreSQL 19 se retrasa y el kernel abraza Rust en Linux al Sur</title>
       <itunes:title>Noticias: PostgreSQL 19 se retrasa y el kernel abraza Rust en Linux al Sur</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
