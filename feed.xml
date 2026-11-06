@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias IA: Google impone Gemini en educación; OpenAI apunta a IPO 2027 y Airbnb prepara agente</title>
+      <itunes:title>Noticias IA: Google impone Gemini en educación; OpenAI apunta a IPO 2027 y Airbnb prepara agente</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Esta semana los gigantes consolidan sus posiciones estratégicas. Google blinda su ecosistema educativo exigiendo Gemini como condición sine qua non, mientras OpenAI lanza un modelo especializado en ciberseguridad y Greg Brockman anticipa una posible IPO para 2027, señalando la madurez del mercado enterprise. En investigación, AutoIP logra la autoformalización verificada por máquina de teoría de regularización lineal en Lean, aunque persiste la brecha entre enunciado formal e intención matemática. KDASO introduce un marco de optimización de habilidades con bucle dual conocimiento-datos para adjudicación legal, resolviendo envejecimiento, composición e interpretabilidad. BlockLock avanza en reproducibilidad de inferencia en lote preservando el cálculo compartido de prellenado. Finalmente, Airbnb anuncia su agente de planificación integral de viajes para la primera mitad de 2027, marcando la hoja de ruta de los asistentes autónomos verticales.
+
+#InteligenciaArtificial #AI #LLM #MachineLearning #Tecnologia #OpenSource</description>
+      <itunes:summary>Esta semana los gigantes consolidan sus posiciones estratégicas. Google blinda su ecosistema educativo exigiendo Gemini como condición sine qua non, mientras OpenAI lanza un modelo especializado en ciberseguridad y Greg Brockman anticipa una posible IPO para 2027, señalando la madurez del mercado enterprise. En investigación, AutoIP logra la autoformalización verificada por máquina de teoría de regularización lineal en Lean, aunque persiste la brecha entre enunciado formal e intención matemática. KDASO introduce un marco de optimización de habilidades con bucle dual conocimiento-datos para adjudicación legal, resolviendo envejecimiento, composición e interpretabilidad. BlockLock avanza en reproducibilidad de inferencia en lote preservando el cálculo compartido de prellenado. Finalmente, Airbnb anuncia su agente de planificación integral de viajes para la primera mitad de 2027, marcando la hoja de ruta de los asistentes autónomos verticales.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261106/podcast_ia_20261106_050041.mp3" length="11706131" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/IA_EP20261106</guid>
+      <pubDate>Fri, 06 Nov 2026 05:07:42 GMT</pubDate>
+      <itunes:duration>487</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261106/cover_ia_20261106_050041.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E47 - Desarmando Ceph: El algoritmo CRUSH y la arquitectura de almacenamiento distribuido</title>
       <itunes:title>Desarmando Ceph: El algoritmo CRUSH y la arquitectura de almacenamiento distribuido</itunes:title>
       <itunes:season>2</itunes:season>
