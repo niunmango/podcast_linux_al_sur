@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias: X.org 2026 Recordings, Kernel Hardening, GNOME Menu &amp; Epic Launcher News</title>
+      <itunes:title>Noticias: X.org 2026 Recordings, Kernel Hardening, GNOME Menu &amp; Epic Launcher News</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>This week in Linux: X.org 2026 dev conference recordings now online, covering graphics stack, Wayland, drivers and X server evolution; LWN details kernel lockdown hardening that blocks memory‑dump attacks during hibernation; seven stable kernels released in one day fix Xen use‑after‑free bugs; GNOME adds a global menu extension supporting 292 apps on Wayland; performance benchmarks show CachyOS (kernel 7.3) and new Omarchy 4.5 competing with Arch Linux; Ubuntu splits linux‑firmware into an HWE package for future releases; FreeBSD 15.2‑Beta‑1 introduces experimental flexible driver compilation; Epic Games confirms its new launcher will land on Ubuntu, SteamOS, Arch Linux and Fedora.
+
+#Linux #OpenSource #Kernel #Ubuntu #GamingOnLinux</description>
+      <itunes:summary>This week in Linux: X.org 2026 dev conference recordings now online, covering graphics stack, Wayland, drivers and X server evolution; LWN details kernel lockdown hardening that blocks memory‑dump attacks during hibernation; seven stable kernels released in one day fix Xen use‑after‑free bugs; GNOME adds a global menu extension supporting 292 apps on Wayland; performance benchmarks show CachyOS (kernel 7.3) and new Omarchy 4.5 competing with Arch Linux; Ubuntu splits linux‑firmware into an HWE package for future releases; FreeBSD 15.2‑Beta‑1 introduces experimental flexible driver compilation; Epic Games confirms its new launcher will land on Ubuntu, SteamOS, Arch Linux and Fedora.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261107/podcast_20261107_060041.mp3" length="11266242" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/EP20261107</guid>
+      <pubDate>Sat, 07 Nov 2026 06:13:45 GMT</pubDate>
+      <itunes:duration>469</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261107/cover_20261107_060041.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias IA: Google impone Gemini en educación; OpenAI apunta a IPO 2027 y Airbnb prepara agente</title>
       <itunes:title>Noticias IA: Google impone Gemini en educación; OpenAI apunta a IPO 2027 y Airbnb prepara agente</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
