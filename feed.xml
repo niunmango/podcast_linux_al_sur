@@ -24,6 +24,23 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>S02E50 - Mosquitto Seguro: TLS y Control de Acceso en Contenedores</title>
+      <itunes:title>Mosquitto Seguro: TLS y Control de Acceso en Contenedores</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Aprendé a blindar tu broker MQTT en entornos productivos. Cubrimos tres pilares esenciales: configuración de cifrado TLS (puertos 8883, certificados `cafile`, `certfile`, `keyfile`) para confidencialidad y autenticación mutua; implementación de control de acceso basado en usuarios/roles (`users.conf`, `pubsub`, `roles`, `allow_peer`) para limitar publicación y suscripción; y mejores prácticas: rotación de claves con OpenSSL, logging centralizado (ELK/Loki), timeouts y defensa en profundidad integrando firewalls y políticas de red de Kubernetes/Docker. Pasá de un broker expuesto a un servicio seguro y auditable para tus microservicios.
+
+#MQTT #Mosquitto #SeguridadInformatica #Contenedores #Kubernetes</description>
+      <itunes:summary>Aprendé a blindar tu broker MQTT en entornos productivos. Cubrimos tres pilares esenciales: configuración de cifrado TLS (puertos 8883, certificados `cafile`, `certfile`, `keyfile`) para confidencialidad y autenticación mutua; implementación de control de acceso basado en usuarios/roles (`users.conf`, `pubsub`, `roles`, `allow_peer`) para limitar publicación y suscripción; y mejores prácticas: rotación de claves con OpenSSL, logging centralizado (ELK/Loki), timeouts y defensa en profundidad integrando firewalls y políticas de red de Kubernetes/Docker. Pasá de un broker expuesto a un servicio seguro y auditable para tus microservicios.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E50/S02E50.mp3" length="14954583" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E50</guid>
+      <pubDate>Thu, 12 Nov 2026 11:19:12 GMT</pubDate>
+      <itunes:duration>623</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E50/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias: X.org 2026 Recordings, Kernel Hardening, GNOME Menu &amp; Epic Launcher News</title>
       <itunes:title>Noticias: X.org 2026 Recordings, Kernel Hardening, GNOME Menu &amp; Epic Launcher News</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
