@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias IA: Gemini Four Hidrógeno, investigación del MIT y agentes autónomos en IA</title>
+      <itunes:title>Noticias IA: Gemini Four Hidrógeno, investigación del MIT y agentes autónomos en IA</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>En esta edición del podcast de Linux al Sur se revisan cuatro temas clave de IA. Primero, Google lanza Gemini Four Hidrógeno, un modelo que mejora el razonamiento con consultas complejas, disponible en búsqueda, la app Gemini y todos los niveles de suscripción. La FAA implementa IA para gestionar la congestión del espacio aéreo de EE. UU., mientras Muse añade llamadas salientes bajo demanda a su asistente de voz. Segundo, un estudio del MIT analiza el caso de Lubrizol: el cuello de botella no es el modelo, sino conectar IA con datos confiables, conocimiento experto y restricciones reales. El enfoque combina computación en la nube elástica, predicción avanzada de propiedades de materiales y curaduría de datos experimentales históricos, acelerando el ciclo de prueba e idea. Tercero, se actualizan las tendencias de infraestructura y chips. Cuarto, se destacan herramientas prácticas de agentes autónomos que transforman aplicaciones reales.
+
+#InteligenciaArtificial #AI #LLM #MachineLearning #Tecnologia #OpenSource</description>
+      <itunes:summary>En esta edición del podcast de Linux al Sur se revisan cuatro temas clave de IA. Primero, Google lanza Gemini Four Hidrógeno, un modelo que mejora el razonamiento con consultas complejas, disponible en búsqueda, la app Gemini y todos los niveles de suscripción. La FAA implementa IA para gestionar la congestión del espacio aéreo de EE. UU., mientras Muse añade llamadas salientes bajo demanda a su asistente de voz. Segundo, un estudio del MIT analiza el caso de Lubrizol: el cuello de botella no es el modelo, sino conectar IA con datos confiables, conocimiento experto y restricciones reales. El enfoque combina computación en la nube elástica, predicción avanzada de propiedades de materiales y curaduría de datos experimentales históricos, acelerando el ciclo de prueba e idea. Tercero, se actualizan las tendencias de infraestructura y chips. Cuarto, se destacan herramientas prácticas de agentes autónomos que transforman aplicaciones reales.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261113/podcast_ia_20261113_050141.mp3" length="11592646" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/IA_EP20261113</guid>
+      <pubDate>Fri, 13 Nov 2026 05:13:22 GMT</pubDate>
+      <itunes:duration>482</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261113/cover_ia_20261113_050141.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E50 - Mosquitto Seguro: TLS y Control de Acceso en Contenedores</title>
       <itunes:title>Mosquitto Seguro: TLS y Control de Acceso en Contenedores</itunes:title>
       <itunes:season>2</itunes:season>
