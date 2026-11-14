@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias: Linux al Sur: Kernel AI audit, KDE 60.32, Nextcloud Desktop &amp; Gaming 11.1</title>
+      <itunes:title>Noticias: Linux al Sur: Kernel AI audit, KDE 60.32, Nextcloud Desktop &amp; Gaming 11.1</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Welcome to this week’s Linux al Sur news roundup. In the kernel space, Buildroot celebrates 25 years of embedded Linux builds, while Linux 7.5 will introduce a hwpoison panic utility for controlled memory‑error testing. Microsoft’s AI‑driven audit of kernel subsystems produced 59 public reports, 33 CVEs and 38 fixes merged into the main branch. On the desktop, KDE Frameworks 60.32 fixes a 15‑year‑old USB notification bug and adds service integration improvements. Euro‑Office, the Nextcloud‑backed ONLYOFFICE fork, launches a native Nextcloud Office Desktop client for document sync and editing. Cloudflare open‑sources Kitesurf, a stateless browser optimized for heavy network workloads. Finally, gaming on Linux receives a compatibility‑tools update to version 11.1, enhancing support for recent titles and smoothing the ProtonWine experience. Join us as we dive into these key developments across kernel, desktop, applications and Linux gaming.
+
+#Linux #OpenSource #Kernel #Ubuntu #GamingOnLinux</description>
+      <itunes:summary>Welcome to this week’s Linux al Sur news roundup. In the kernel space, Buildroot celebrates 25 years of embedded Linux builds, while Linux 7.5 will introduce a hwpoison panic utility for controlled memory‑error testing. Microsoft’s AI‑driven audit of kernel subsystems produced 59 public reports, 33 CVEs and 38 fixes merged into the main branch. On the desktop, KDE Frameworks 60.32 fixes a 15‑year‑old USB notification bug and adds service integration improvements. Euro‑Office, the Nextcloud‑backed ONLYOFFICE fork, launches a native Nextcloud Office Desktop client for document sync and editing. Cloudflare open‑sources Kitesurf, a stateless browser optimized for heavy network workloads. Finally, gaming on Linux receives a compatibility‑tools update to version 11.1, enhancing support for recent titles and smoothing the ProtonWine experience. Join us as we dive into these key developments across kernel, desktop, applications and Linux gaming.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261114/podcast_20261114_060141.mp3" length="12256180" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/EP20261114</guid>
+      <pubDate>Sat, 14 Nov 2026 06:09:34 GMT</pubDate>
+      <itunes:duration>510</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261114/cover_20261114_060141.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias IA: Gemini Four Hidrógeno, investigación del MIT y agentes autónomos en IA</title>
       <itunes:title>Noticias IA: Gemini Four Hidrógeno, investigación del MIT y agentes autónomos en IA</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
