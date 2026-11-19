@@ -24,6 +24,23 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>S02E51 - Arranque sellado y descifrado automático: TPM 2.0, LUKS 2 y Clevis</title>
+      <itunes:title>Arranque sellado y descifrado automático: TPM 2.0, LUKS 2 y Clevis</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>51</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Descubre cómo el hardware de confianza (TPM 2.0), el cifrado de discos (LUKS 2) y el marco de políticas (Clevis) trabajan juntos para ofrecer un arranque sellado y un desbloqueo automático en sistemas Linux. El episodio explica la raíz de confianza del TPM, la modularidad de LUKS 2, la evaluación de políticas de Clevis y el flujo de arranque paso a paso. Verás ejemplos prácticos, desde laptops con datos sensibles hasta servidores que requieren reinicios sin intervención, y aprenderás a ajustar políticas y gestionar recuperaciones. Ideal para estudiantes, profesionales de la informática y administradores que buscan equilibrar alta seguridad con una experiencia de usuario fluida.
+
+#TPM #LUKS #Clevis #SeguridadLinux #ArranqueSellado</description>
+      <itunes:summary>Descubre cómo el hardware de confianza (TPM 2.0), el cifrado de discos (LUKS 2) y el marco de políticas (Clevis) trabajan juntos para ofrecer un arranque sellado y un desbloqueo automático en sistemas Linux. El episodio explica la raíz de confianza del TPM, la modularidad de LUKS 2, la evaluación de políticas de Clevis y el flujo de arranque paso a paso. Verás ejemplos prácticos, desde laptops con datos sensibles hasta servidores que requieren reinicios sin intervención, y aprenderás a ajustar políticas y gestionar recuperaciones. Ideal para estudiantes, profesionales de la informática y administradores que buscan equilibrar alta seguridad con una experiencia de usuario fluida.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E51/S02E51.mp3" length="17156470" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E51</guid>
+      <pubDate>Thu, 19 Nov 2026 07:06:42 GMT</pubDate>
+      <itunes:duration>714</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E51/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias: Linux al Sur: Kernel AI audit, KDE 60.32, Nextcloud Desktop &amp; Gaming 11.1</title>
       <itunes:title>Noticias: Linux al Sur: Kernel AI audit, KDE 60.32, Nextcloud Desktop &amp; Gaming 11.1</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
