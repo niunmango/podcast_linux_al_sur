@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias IA: Anthropic IPO récord, agente de Apple en Mac y termodinámica de tokens</title>
+      <itunes:title>Noticias IA: Anthropic IPO récord, agente de Apple en Mac y termodinámica de tokens</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Edición semanal de noticias de IA del Podcast de Linux al Sur. En modelos fundacionales, Anthropic protagonizó una salida a bolsa récord que la valoró en 105.000 millones de dólares a 83 dólares por acción, consolidando la apuesta por modelos de frontera como Claude. Meta prepara Muse Charm, un wearable de IA de unos 300 dólares que busca ser la interfaz permanente con Llama sin depender del teléfono. Google rediseñó su página de inicio con un panel lateral colapsable para mantener conversaciones continuas con sus modelos desde el buscador. En investigación, tres papers de arXiv abordan teoría de juegos y termodinámica del software: el mutualismo humano-IA se vuelve inestable bajo asimetría de capacidades; el entrenamiento para supervisión introspectiva busca que los modelos reporten sus propios fallos internos; y la termodinámica del software mide la eficiencia real de los agentes separando trabajo útil de calor disipado. En infraestructura, la volatilidad de Nvidia marcó la agenda tras su tercer trimestre fiscal, con la acción cayendo hasta unos 150 dólares. En agentes autónomos, Apple desarrolla su propio agente para ejecutarse directamente en el Mac.
+
+#InteligenciaArtificial #AI #LLM #MachineLearning #Tecnologia #OpenSource #Anthropic #Nvidia #AgentesAutonomos #Apple #InvestigacionIA #Podcast</description>
+      <itunes:summary>Edición semanal de noticias de IA del Podcast de Linux al Sur. En modelos fundacionales, Anthropic protagonizó una salida a bolsa récord que la valoró en 105.000 millones de dólares a 83 dólares por acción, consolidando la apuesta por modelos de frontera como Claude. Meta prepara Muse Charm, un wearable de IA de unos 300 dólares que busca ser la interfaz permanente con Llama sin depender del teléfono. Google rediseñó su página de inicio con un panel lateral colapsable para mantener conversaciones continuas con sus modelos desde el buscador. En investigación, tres papers de arXiv abordan teoría de juegos y termodinámica del software: el mutualismo humano-IA se vuelve inestable bajo asimetría de capacidades; el entrenamiento para supervisión introspectiva busca que los modelos reporten sus propios fallos internos; y la termodinámica del software mide la eficiencia real de los agentes separando trabajo útil de calor disipado. En infraestructura, la volatilidad de Nvidia marcó la agenda tras su tercer trimestre fiscal, con la acción cayendo hasta unos 150 dólares. En agentes autónomos, Apple desarrolla su propio agente para ejecutarse directamente en el Mac.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261120/podcast_ia_20261120_050109.mp3" length="11166957" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/IA_EP20261120</guid>
+      <pubDate>Fri, 20 Nov 2026 05:11:53 GMT</pubDate>
+      <itunes:duration>465</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261120/cover_ia_20261120_050109.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E51 - Arranque sellado y descifrado automático: TPM 2.0, LUKS 2 y Clevis</title>
       <itunes:title>Arranque sellado y descifrado automático: TPM 2.0, LUKS 2 y Clevis</itunes:title>
       <itunes:season>2</itunes:season>
