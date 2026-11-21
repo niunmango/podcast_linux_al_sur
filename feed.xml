@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias: Kernel 7.5, AMD en Mutter y Epic Games Launcher en Fedora</title>
+      <itunes:title>Noticias: Kernel 7.5, AMD en Mutter y Epic Games Launcher en Fedora</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Edición semanal de noticias del Podcast de Linux al Sur. En kernel y bajo nivel: Linux 7.5 amplía el rango de asignación de memoria para búferes GEM/TTM de 1 TB a 8 TB, aliviando la presión con múltiples GPU de gran VRAM; LLVM cierra tras ocho años su relicenciamiento a Apache 2.0 con excepción LLVM; y aparece Vim Classic 8.3.1, bifurcación de largo soporte mantenida sin asistencia de modelos de lenguaje, con parches hasta 8.2.3237 y sin Python 2. En escritorio: AMD contribuye a Mutter de GNOME el soporte de modulación adaptativa de retroiluminación y una interfaz adaptativa al contenido, integrado en el servidor de pantalla para portátiles Ryzen AI; y se presenta Kessler, reproductor de música retro con soporte de iPod, construido por un diseñador con ayuda de un asistente de programación. En aplicaciones libres: novedades en Libreboot y su política interna sobre firmware. En gaming: la vista previa del Epic Games Launcher amplía su soporte y ya funciona en Fedora. Cuatro bloques, una misma idea: el software libre sigue moviéndose en todos los niveles.
+
+#Linux #OpenSource #Kernel #Ubuntu #GamingOnLinux #GNOME #LLVM #Libreboot #Fedora #Vim</description>
+      <itunes:summary>Edición semanal de noticias del Podcast de Linux al Sur. En kernel y bajo nivel: Linux 7.5 amplía el rango de asignación de memoria para búferes GEM/TTM de 1 TB a 8 TB, aliviando la presión con múltiples GPU de gran VRAM; LLVM cierra tras ocho años su relicenciamiento a Apache 2.0 con excepción LLVM; y aparece Vim Classic 8.3.1, bifurcación de largo soporte mantenida sin asistencia de modelos de lenguaje, con parches hasta 8.2.3237 y sin Python 2. En escritorio: AMD contribuye a Mutter de GNOME el soporte de modulación adaptativa de retroiluminación y una interfaz adaptativa al contenido, integrado en el servidor de pantalla para portátiles Ryzen AI; y se presenta Kessler, reproductor de música retro con soporte de iPod, construido por un diseñador con ayuda de un asistente de programación. En aplicaciones libres: novedades en Libreboot y su política interna sobre firmware. En gaming: la vista previa del Epic Games Launcher amplía su soporte y ya funciona en Fedora. Cuatro bloques, una misma idea: el software libre sigue moviéndose en todos los niveles.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261121/podcast_20261121_060100.mp3" length="11846773" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/EP20261121</guid>
+      <pubDate>Sat, 21 Nov 2026 06:09:37 GMT</pubDate>
+      <itunes:duration>493</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261121/cover_20261121_060100.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias IA: Anthropic IPO récord, agente de Apple en Mac y termodinámica de tokens</title>
       <itunes:title>Noticias IA: Anthropic IPO récord, agente de Apple en Mac y termodinámica de tokens</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
