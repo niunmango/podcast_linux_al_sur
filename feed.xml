@@ -24,6 +24,23 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>S02E52 - WebAssembly, Rust, Go y WASI: El fin de la frontera entre cliente y servidor</title>
+      <itunes:title>WebAssembly, Rust, Go y WASI: El fin de la frontera entre cliente y servidor</itunes:title>
+      <itunes:season>2</itunes:season>
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>WebAssembly (Wasm) ha evolucionado de curiosidad técnica a pilar fundamental del desarrollo moderno. Este episodio analiza cómo Wasm permite ejecutar código compilado (Rust, Go, C++) en el navegador con rendimiento nativo y seguridad sandbox, y cómo WASI (WebAssembly System Interface) extiende esta capacidad al servidor y al edge computing (Cloudflare Workers, Fastly, Fermyon). Desglosamos las ventajas de Rust (seguridad de memoria sin GC, módulos ligeros) y Go (goroutines en el navegador gracias a Wasm GC) para portar lógica de sistemas a la web. Hablamos de interoperabilidad con JavaScript, reducción drástica de superficie de ataque, binarios de megabytes frente a contenedores de gigabytes, e inicio en milisegundos. Una guía técnica para entender por qué "escribir una vez, ejecutar en cualquier lugar" es hoy una realidad viable para arquitecturas distribuidas, IoT y edge. Contenido del CURZAS - UNCo.
+
+#WebAssembly #RustLang #GoLang #EdgeComputing #WASI</description>
+      <itunes:summary>WebAssembly (Wasm) ha evolucionado de curiosidad técnica a pilar fundamental del desarrollo moderno. Este episodio analiza cómo Wasm permite ejecutar código compilado (Rust, Go, C++) en el navegador con rendimiento nativo y seguridad sandbox, y cómo WASI (WebAssembly System Interface) extiende esta capacidad al servidor y al edge computing (Cloudflare Workers, Fastly, Fermyon). Desglosamos las ventajas de Rust (seguridad de memoria sin GC, módulos ligeros) y Go (goroutines en el navegador gracias a Wasm GC) para portar lógica de sistemas a la web. Hablamos de interoperabilidad con JavaScript, reducción drástica de superficie de ataque, binarios de megabytes frente a contenedores de gigabytes, e inicio en milisegundos. Una guía técnica para entender por qué "escribir una vez, ejecutar en cualquier lugar" es hoy una realidad viable para arquitecturas distribuidas, IoT y edge. Contenido del CURZAS - UNCo.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E52/S02E52.mp3" length="15622292" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/S02E52</guid>
+      <pubDate>Thu, 26 Nov 2026 07:09:27 GMT</pubDate>
+      <itunes:duration>650</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/S02E52/portada.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias: Kernel 7.5, AMD en Mutter y Epic Games Launcher en Fedora</title>
       <itunes:title>Noticias: Kernel 7.5, AMD en Mutter y Epic Games Launcher en Fedora</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
