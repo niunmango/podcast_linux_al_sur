@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias IA: Context Scaling, Nvidia y agentes de compra: noticias IA (54 caracteres)</title>
+      <itunes:title>Noticias IA: Context Scaling, Nvidia y agentes de compra: noticias IA (54 caracteres)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Edición semanal de noticias de IA de Podcast de Linux al Sur. Bloque de modelos fundacionales: una empresa de modelos de lenguaje sale a bolsa el mismo día en que un videojuego hecho por humanos logra uno de los mayores lanzamientos de la historia; cuarenta y dos fiscales estatales buscan frenar la venta de historiales de chat de veintiún millones de cuentas en un proceso de quiebra; una patente de feeds de video generativos y publicidad personalizada es rechazada. Investigación: tres papers de arXiv sobre fallas de despliegue, con Context Scaling como nueva frontera del escalado, un marco de puntuación consciente de restricciones para selección de respuestas y AutoformBench para formalización en Lean. Infraestructura: Nvidia presenta tres desarrollos entre tensión geopolítica, escrutinio financiero y gobernanza interna. Agentes autónomos: Amazon negocia con Meta para que su agente Muse concrete compras dentro de servicios de Meta.
+
+[#InteligenciaArtificial #AI #LLM #MachineLearning #Tecnologia #OpenSource #ContextScaling #Nvidia #AgentesAutonomos #arXiv #Lean #PodcastLinuxAlSur]</description>
+      <itunes:summary>Edición semanal de noticias de IA de Podcast de Linux al Sur. Bloque de modelos fundacionales: una empresa de modelos de lenguaje sale a bolsa el mismo día en que un videojuego hecho por humanos logra uno de los mayores lanzamientos de la historia; cuarenta y dos fiscales estatales buscan frenar la venta de historiales de chat de veintiún millones de cuentas en un proceso de quiebra; una patente de feeds de video generativos y publicidad personalizada es rechazada. Investigación: tres papers de arXiv sobre fallas de despliegue, con Context Scaling como nueva frontera del escalado, un marco de puntuación consciente de restricciones para selección de respuestas y AutoformBench para formalización en Lean. Infraestructura: Nvidia presenta tres desarrollos entre tensión geopolítica, escrutinio financiero y gobernanza interna. Agentes autónomos: Amazon negocia con Meta para que su agente Muse concrete compras dentro de servicios de Meta.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261127/podcast_ia_20261127_050012.mp3" length="12107987" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/IA_EP20261127</guid>
+      <pubDate>Fri, 27 Nov 2026 05:14:54 GMT</pubDate>
+      <itunes:duration>504</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/IA_EP20261127/cover_ia_20261127_050012.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>S02E52 - WebAssembly, Rust, Go y WASI: El fin de la frontera entre cliente y servidor</title>
       <itunes:title>WebAssembly, Rust, Go y WASI: El fin de la frontera entre cliente y servidor</itunes:title>
       <itunes:season>2</itunes:season>
