@@ -24,6 +24,21 @@
     </itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <item>
+      <title>Noticias: Kernel retira VME, Mint 27 beta con Wayland, Mesa estrena driver y Wine 11.23</title>
+      <itunes:title>Noticias: Kernel retira VME, Mint 27 beta con Wayland, Mesa estrena driver y Wine 11.23</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description>Edición semanal de noticias del Podcast de Linux al Sur, con cuatro bloques técnicos. En el kernel, se elimina el último código del bus VME (VersaModular Eurocard): tecnología de los ochenta con acceso a memoria mapeada y esquema propio de interrupciones, cuyos controladores arrastraban inicialización y manejadores atados a placas y arquitecturas sin usuarios reales. La remoción reduce rutas muertas, mejora la precisión del análisis estático y alivia la retroportación en ramas estables, tras las salidas previas de ISA, PCMCIA, ISDN y radioafición. En distribuciones y escritorio, la beta de Linux Mint 27 entra en recta final con kernel 7.0, Cinnamon 6.8, aplicaciones renovadas y soporte completo de Wayland: mejor escalado de pantallas y composición más predecible, con lanzamiento oficial previsto cerca de Navidad. Framework abre la preventa de su teclado inalámbrico con panel táctil a 99 dólares, con planos CAD y firmware ZMK de código abierto. En aplicaciones libres, Mesa suma el controlador Gallium 3D Earthqaic y amplía el soporte gráfico. En gaming, Wine 11.23 llega en su entrega quincenal puliendo compatibilidad, mientras Proton avanza en paralelo.
+
+#Linux #OpenSource #Kernel #LinuxMint #Wayland #Mesa #Wine #GamingOnLinux #SoftwareLibre #Podcast</description>
+      <itunes:summary>Edición semanal de noticias del Podcast de Linux al Sur, con cuatro bloques técnicos. En el kernel, se elimina el último código del bus VME (VersaModular Eurocard): tecnología de los ochenta con acceso a memoria mapeada y esquema propio de interrupciones, cuyos controladores arrastraban inicialización y manejadores atados a placas y arquitecturas sin usuarios reales. La remoción reduce rutas muertas, mejora la precisión del análisis estático y alivia la retroportación en ramas estables, tras las salidas previas de ISA, PCMCIA, ISDN y radioafición. En distribuciones y escritorio, la beta de Linux Mint 27 entra en recta final con kernel 7.0, Cinnamon 6.8, aplicaciones renovadas y soporte completo de Wayland: mejor escalado de pantallas y composición más predecible, con lanzamiento oficial previsto cerca de Navidad. Framework abre la preventa de su teclado inalámbrico con panel táctil a 99 dólares, con planos CAD y firmware ZMK de código abierto. En aplicaciones libres, Mesa suma el controlador Gallium 3D Earthqaic y amplía el soporte gráfico. En gaming, Wine 11.23 llega en su entrega quincenal puliendo compatibilidad, mientras Proton avanza en paralelo.</itunes:summary>
+      <enclosure url="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261128/podcast_20261128_060052.mp3" length="11753379" type="audio/mpeg" />
+      <guid isPermaLink="false">https://github.com/niunmango/podcast_linux_al_sur/releases/tag/EP20261128</guid>
+      <pubDate>Sat, 28 Nov 2026 06:09:19 GMT</pubDate>
+      <itunes:duration>489</itunes:duration>
+      <itunes:image href="https://github.com/niunmango/podcast_linux_al_sur/releases/download/EP20261128/cover_20261128_060052.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Noticias IA: Context Scaling, Nvidia y agentes de compra: noticias IA (54 caracteres)</title>
       <itunes:title>Noticias IA: Context Scaling, Nvidia y agentes de compra: noticias IA (54 caracteres)</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
